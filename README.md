@@ -1,2 +1,1 @@
-# Works
-My school works dumbass
+# school

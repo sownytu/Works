@@ -1,0 +1,55 @@
+* {
+    background-color: rgb(222,222,222);
+}
+
+.title {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    height: 100px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.paragraph {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    font-size: large;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    height: auto;
+}
+
+.space {
+    height: 100px;
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.game-icons {
+    height: 500px;
+    width: 250px;
+}
+
+.mightybaseplate-face {
+    height: 250px;
+    width: 200px;
+}
+
+iframe {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
